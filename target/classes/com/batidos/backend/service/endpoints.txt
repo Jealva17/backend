@@ -1,0 +1,34 @@
+endpoints para productos
+
+http://localhost:8080/productos
+http://localhost:8080/productos/1
+http://localhost:8080/productos/1/edit
+http://localhost:8080/productos/1/delete
+
+endpoints para categorias
+
+http://localhost:8080/categorias
+http://localhost:8080/categorias/1
+http://localhost:8080/categorias/1/edit
+http://localhost:8080/categorias/1/delete
+
+endpoints para usuarios
+
+http://localhost:8080/usuarios
+http://localhost:8080/usuarios/1
+http://localhost:8080/usuarios/1/edit
+http://localhost:8080/usuarios/1/delete
+
+endpoints para clientes
+
+http://localhost:8080/clientes
+http://localhost:8080/clientes/1
+http://localhost:8080/clientes/1/edit
+http://localhost:8080/clientes/1/delete
+
+endpoints para pedidos
+
+http://localhost:8080/pedidos
+http://localhost:8080/pedidos/1
+http://localhost:8080/pedidos/1/edit
+http://localhost:8080/pedidos/1/delete      

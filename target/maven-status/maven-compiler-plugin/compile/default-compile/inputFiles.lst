@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\BackendApplication.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\config\WebConfig.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\controller\DetallePedidoController.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\controller\PedidoController.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\controller\PersonaController.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\controller\ProductoController.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\controller\VentaPedidoController.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\dto\PedidoRequest.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\dto\PedidoResponse.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\model\DetallePedido.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\model\Persona.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\model\Productos.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\model\VentaPedido.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\repository\DetallePedidoRepository.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\repository\PersonaRepository.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\repository\ProductosRepository.java
+C:\Users\ASUS\Documents\Trabajo\backend\src\main\java\com\batidos\backend\repository\VentaPedidoRepository.java
